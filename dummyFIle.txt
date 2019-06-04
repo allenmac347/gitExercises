@@ -1,3 +1,4 @@
 dummy file test 
 new line
 added foo
+testing diff
